@@ -1,0 +1,36 @@
+.cta-section {
+    background-color: #f7f7f7;
+    padding: 40px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .cta-section h2 {
+    font-size: 2.2rem;
+    color: #333;
+  }
+  
+  .cta-section p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .cta-button {
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3;
+  }
+  
